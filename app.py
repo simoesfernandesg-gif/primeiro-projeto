@@ -13,3 +13,4 @@ if media >= 6:
 print("Situação: Aprovado")
 else: 
 print("Situação: Reprovado")
+
